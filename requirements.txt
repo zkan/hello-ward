@@ -1,0 +1,16 @@
+click==8.0.1
+click-completion==0.5.2
+click-default-group==1.2.2
+colorama==0.4.4
+commonmark==0.9.1
+cucumber-tag-expressions==2.0.4
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+pluggy==0.13.1
+pprintpp==0.4.0
+Pygments==2.9.0
+rich==10.2.2
+shellingham==1.4.0
+six==1.16.0
+toml==0.10.2
+ward==0.59.0b0
